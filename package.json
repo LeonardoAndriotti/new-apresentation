@@ -1,0 +1,25 @@
+{
+  "name": "new-apresentation",
+  "version": "1.0.0",
+  "description": "starting a node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoAndriotti/new-apresentation.git"
+  },
+  "author": "Leonardo Andriotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoAndriotti/new-apresentation/issues"
+  },
+  "homepage": "https://github.com/LeonardoAndriotti/new-apresentation#readme",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
